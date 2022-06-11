@@ -1,6 +1,6 @@
 <?php
 /*
- * Plugin Name: NewCombin ToDo List plugin example
+ * Plugin Name: ToDo List plugin
  * Plugin URI: http://patolin.com/
  * Description: Desafio wordpress de NewCombin.
  * Version: 1.0.0
