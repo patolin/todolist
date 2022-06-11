@@ -6,7 +6,7 @@ Plugin para generar un ToDo List, mediante shortcode [todolist]
 
 Para usar el plugin se deben seguir los siguientes pasos:
 
-1.- Clonar el repositorio dentro de la carpeta /wp-content/plugins de su instalación de wordpress (o descargar en archivo zip desde github y descomprimirlo el contenod dentro de carpeta de plugins de wordpress)
+1.- Clonar el repositorio dentro de la carpeta /wp-content/plugins de su instalación de wordpress (o descargar en archivo zip desde github y descomprimirlo el contenod dentro de carpeta de plugins de wordpress. Asegurarse de cambiar el nombre de la carpeta descomprimida de todolist-main a todolist)
 
 2.- Activar el plugin desde la consola administrativa de wordpress
 
