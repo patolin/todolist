@@ -7,7 +7,9 @@ Plugin para generar un ToDo List, mediante shortcode [todolist]
 Para usar el plugin se deben seguir los siguientes pasos:
 
 1.- Clonar el repositorio dentro de la carpeta /wp-content/plugins de su instalación de wordpress (o descargar en archivo zip desde github y descomprimirlo el contenod dentro de carpeta de plugins de wordpress)
+
 2.- Activar el plugin desde la consola administrativa de wordpress
+
 3.- Editar la página o post donde se desee colocar la lista de tareas, y usar el shortcode [todolist]
 
 La lista de tareas creadas se puede crear y modificar desde la página o post donde se coloque el shortcode, o desde la consola administrativa en el blocke To Do List.
